@@ -1,0 +1,19 @@
+{
+  "name": "myfristproject",
+  "version": "1.0.0",
+  "description": "My Practice Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pragyan1996/MyFristProject.git"
+  },
+  "author": "Pragyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pragyan1996/MyFristProject/issues"
+  },
+  "homepage": "https://github.com/pragyan1996/MyFristProject#readme"
+}
